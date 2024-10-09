@@ -9,3 +9,10 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+
+package-lock.json
+.env
+
+dist
+
+.DS_Store
